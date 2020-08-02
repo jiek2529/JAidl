@@ -1,0 +1,4 @@
+rootProject.name='JAidl'
+include ':app'
+include ':aidl'
+include ':myserver'
